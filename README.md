@@ -31,4 +31,4 @@ API REST desenvolvida com Spring Boot para simular o backend de uma plataforma d
 ## Deploy
  
 Aplicação conteinerizada com Docker e publicada no Render.<br>
-Confira o projeto em: <https://workshop-springboot4-jpa-1-afgx.onrender.com/>
+Confira o projeto em: <a href="https://workshop-springboot4-jpa-1-afgx.onrender.com/" target="_blank">https://workshop-springboot4-jpa-1-afgx.onrender.com/</a>
